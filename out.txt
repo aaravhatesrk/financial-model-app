@@ -1,0 +1,55 @@
+0"
+       
+       data-consolidated="true"
+       id="company-info"></div>
+
+  <div class="card card-large" id="top">
+    <div class="flex flex-space-between flex-gap-8">
+      <div class="flex-row flex-wrap flex-align-center flex-grow"
+           style="flex-basis: 300px">
+        <h1 class="margin-0 show-from-tablet-landscape">Tata Consultancy Services Ltd</h1>
+        <div class="ink-600 show-from-tablet-landscape" style="opacity: 0.5;">
+          <i class="icon-dot"></i>
+        </div>
+        <div class="font-size-18 strong line-height-14">
+          <div class="flex flex-align-center">
+            <span>₹ 2,095</span>
+            
+              <span class="font-size-12 down margin-left-4">
+                <i class="icon-circle-down"></i>
+                -0.68%
+              </span>
+            
+          </div>
+          <div class=
+---NSE/BSE search---
+15967 pacing: 0.05px;">
+            BSE:
+            532540
+          </span>
+        </a>
+     
+16275 pacing: 0.05px;">
+            NSE:
+            TCS
+          </span>
+        </a>
+      
+ 
+32211 ark plausible-event-benchmark=BSE+500"
+                   target="_blank">BSE 500</a>
+    
+32659 ark plausible-event-benchmark=BSE+100"
+                   target="_blank">BSE 100</a>
+    
+32871 ark plausible-event-benchmark=BSE+200"
+                   target="_blank">BSE 200</a>
+    
+33309 ark plausible-event-benchmark=BSE+Teck"
+                   target="_blank">BSE Teck</a>
+  
+36574 ausible-event-benchmark=BSE+SENSEX+50"
+                   target="_blank">BSE SENSEX 50</a
+46523 ark plausible-event-benchmark=BSE+1000"
+                   target="_blank">BSE 1000</a>
+  

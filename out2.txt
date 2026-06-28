@@ -1,0 +1,26 @@
+      <a href="https://www.bseindia.com/stock-share-price/tata-consultancy-services-ltd/TCS/532540/" target="_blank" rel="noopener noreferrer">
+          <i class="icon-link-ext"></i>
+          <span class="ink-700 upper" style="letter-spacing: 0.05px;">
+            BSE:
+            532540
+          </span>
+        </a>
+      
+
+      
+        <a href="https://www.nseindia.com/get-quotes/equity?symbol=TCS" target="_blank" rel="noopener noreferrer">
+          <i class="icon-link-ext"></i>
+          <span class="ink-700 upper" style="letter-spacing: 0.05px;">
+            NSE:
+            TCS
+          </span>
+        </a>
+      
+    </div>
+    
+
+    <div class="company-info">
+      
+      <div class="company-profile">
+        <div class="flex flex-column" style="flex: 1 1;">
+          <div cl

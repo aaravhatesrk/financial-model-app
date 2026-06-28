@@ -1,0 +1,301 @@
+id="balance-sheet" class="card card-large">
+      <div class="flex-row flex-space-between flex-gap-16">
+  <div>
+    <h2>Balance Sheet</h2>
+
+    <p class="sub" style="margin: 0;">
+      
+        Consolidated Figures in Rs. Crores
+        /
+        <a href="/company/TCS/#balance-sheet"
+           class="">View Standalone</a>
+      
+    </p>
+  </div>
+
+  <div class="flex flex-wrap flex-gap-8 flex-align-center"
+       style="justify-content: flex-end">
+    
+
+    
+
+    
+      <button type="button"
+              class="button-small button-secondary plausible-event-name=Corporate+Actions plausible-event-user=unregistered"
+              onclick="Modal.openInModal(event)"
+              data-title="Corporate actions"
+              data-url="/company/actions/3365/">Corporate actions</button>
+    
+  </div>
+</div>
+
+
+
+
+
+
+<div class="responsive-holder fill-card-width" data-result-table>
+  <table class="data-table responsive-text-nowrap">
+    <thead>
+      <tr>
+        <th class="text"></th>
+        
+          <th class=""
+              data-date-key="2015-03-31">
+            Mar 2015
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2016-03-31">
+            Mar 2016
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2017-03-31">
+            Mar 2017
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2018-03-31">
+            Mar 2018
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2019-03-31">
+            Mar 2019
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2020-03-31">
+            Mar 2020
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2021-03-31">
+            Mar 2021
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2022-03-31">
+            Mar 2022
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2023-03-31">
+            Mar 2023
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2024-03-31">
+            Mar 2024
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2025-03-31">
+            Mar 2025
+            
+            
+          </th>
+        
+          <th class=""
+              data-date-key="2026-03-31">
+            Mar 2026
+            
+            
+          </th>
+        
+      </tr>
+    </thead>
+    <tbody>
+      
+        
+          <tr class="stripe">
+            <td class="text">
+              
+                Equity Capital
+              
+            </td>
+            
+              <td class="">
+                
+                  196
+                
+              </td>
+            
+              <td class="">
+                
+                  197
+                
+              </td>
+            
+              <td class="">
+                
+                  197
+                
+              </td>
+            
+              <td class="">
+                
+                  191
+                
+              </td>
+            
+              <td class="">
+                
+                  375
+                
+              </td>
+            
+              <td class="">
+                
+                  375
+                
+              </td>
+            
+              <td class="">
+                
+                  370
+                
+              </td>
+            
+              <td class="">
+                
+                  366
+                
+              </td>
+            
+              <td class="">
+                
+                  366
+                
+              </td>
+            
+              <td class="">
+                
+                  362
+                
+              </td>
+            
+              <td class="">
+                
+                  362
+                
+              </td>
+            
+              <td class="">
+                
+                  362
+                
+              </td>
+            
+          </tr>
+        
+      
+        
+          <tr class="">
+            <td class="text">
+              
+                Reserves
+              
+            </td>
+            
+              <td class="">
+                
+                  50,439
+                
+              </td>
+            
+              <td class="">
+                
+                  70,875
+                
+              </td>
+            
+              <td class="">
+                
+                  86,017
+                
+              </td>
+            
+              <td class="">
+                
+                  84,937
+                
+              </td>
+            
+              <td class="">
+                
+                  89,071
+                
+              </td>
+            
+              <td class="">
+                
+                  83,751
+                
+              </td>
+            
+              <td class="">
+                
+                  86,063
+                
+              </td>
+            
+              <td class="">
+                
+                  88,773
+                
+              </td>
+            
+              <td class="">
+                
+                  90,058
+                
+              </td>
+            
+              <td class="">
+                
+                  90,127
+                
+              </td>
+            
+              <td class="">
+                
+                  94,394
+                
+              </td>
+            
+              <td class="">
+                
+                  106,878
+                
+              </td>
+            
+          </tr>
+        
+      
+        
+          <tr class="stripe">
+            <td class="text">
+              
+          
